@@ -1,6 +1,4 @@
-Minha Barbearia - Sistema de Gerenciamento de Clientes
 
-Este projeto é um sistema simples em Java para gerenciar clientes de uma barbearia. Ele permite cadastrar, listar, buscar, alterar e excluir clientes por meio de um menu interativo no console.
 
 Funcionalidades
 
